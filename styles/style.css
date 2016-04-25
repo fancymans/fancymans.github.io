@@ -1,0 +1,105 @@
+body {
+    width: 100%;
+    background-color: #143F4C;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #3D8399;
+    color: #dfdfdf;
+    min-width: 100px;
+    padding: 10px;
+    margin: 0;
+    text-align: center;
+}
+
+.nav {
+    background-color: #CC1449;
+    color: #dfdfdf;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    height: 30px;
+    border: 0;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+}
+
+.nav ul {
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline;
+    margin: 0;
+    padding: 0 10px;
+    line-height: 30px;
+    vertical-align: middle;
+}
+
+.nav ul li h4 {
+    display: inline;
+}
+
+.aboutme_container {
+    padding-right: 0;
+}
+
+.aboutme {
+    margin-top: 20px;
+    background-color: #dfdfdf;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    float: right;
+}
+
+.contactme_container {
+    padding-left: 0;
+}
+
+.contactme {
+    margin-top: 20px;
+    background-color: #dfdfdf;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+}
+
+.contactme ul {
+    list-style: none;
+}
+
+.contactme ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.contactme img {
+    width: 80%;
+}
+
+.projects {
+    margin-top: 20px;
+    background-color: #dfdfdf;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+}
+
+.experience {
+    margin-top: 20px;
+    background-color: #dfdfdf;
+    -webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.75);
+}
+
+.fill_container {
+    width: 100%;
+    height: auto;
+}
